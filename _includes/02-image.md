@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Mjolnir](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Torshammare_fr_Sk%C3%A5ne_%28KVHoA_Akademiens_M%C3%A5nadsblad_1895_s102_fig82%29_vit_bakgr.jpg/440px-Torshammare_fr_Sk%C3%A5ne_%28KVHoA_Akademiens_M%C3%A5nadsblad_1895_s102_fig82%29_vit_bakgr.jpg)
